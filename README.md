@@ -1,4 +1,8 @@
-# WiFi 大师 | WiFi Guru | WiFi Гуру
+#  ！！作者是小孩哥，bug巨多，欢迎拉取数据，多多提建议，我会在周末修bug！！
+
+---
+
+## WiFi 大师 | WiFi Guru | WiFi Гуру
 
 ---
 
